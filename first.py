@@ -8,3 +8,4 @@ def greet2(name):
 print (greet("mandy"));
 print (greet1("mandy"));
 print (greet2("mandy"));
+print("I am commit to see job in jenkins is automated or not")
