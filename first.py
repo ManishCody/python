@@ -5,7 +5,7 @@ def greet1(name):
 def greet2(name):
     return f"Hello, {name.replace('m','s').upper()}"
 
-print (greet("mandy"));
-print (greet1("mandy"));
+printf (greet("mandy"));
+printf (greet1("mandy"));
 print (greet2("mandy"));
 print("I am commit to see job in jenkins is automated or not")
